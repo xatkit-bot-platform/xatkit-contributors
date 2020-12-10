@@ -1,7 +1,7 @@
 # Contributing
 
 Please follow the process below to be added to the list of contributors
-1. Fork this project `git clone https://github.com/xatkit-bot-platform/xatkit-contributors.git`
+1. Fork this project
 2. Create a branch named `add_<your github username>`, e.g. `add_gdaniel`
 3. Edit README.md with the following template
 ```
