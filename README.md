@@ -6,3 +6,5 @@
 
 ![jcabot](https://github.com/jcabot.png?size=16) [@jcabot](https://github.com/jcabot): Xatkit development and maintenance
 
+![hamzaed](https://github.com/hamzaed.png?size=16) [@hamzaed](https://github.com/hamzaed): The React chat widget, NLP.js integration, and Botium integration.
+
