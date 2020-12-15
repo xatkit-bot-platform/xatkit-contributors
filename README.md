@@ -6,3 +6,4 @@
 
 ![jcabot](https://github.com/jcabot.png?size=16) [@jcabot](https://github.com/jcabot): Xatkit development and maintenance
 
+![ffc91](https://github.com/ffc91.png?size=16) [@ffc91](https://github.com/ffc91): Xatkit development: Twitter and Moodle platforms contributions
