@@ -6,3 +6,5 @@
 
 ![jcabot](https://github.com/jcabot.png?size=16) [@jcabot](https://github.com/jcabot): Xatkit development and maintenance
 
+![nerlichman](https://github.com/nerlichman.png?size=16) [@nerlichman](https://github.com/nerlichman): Xatkit development: runtime, Slack, Twitter and Moodle platforms contributions.
+
