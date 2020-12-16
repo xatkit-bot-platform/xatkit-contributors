@@ -12,4 +12,4 @@
 
 ![hamzaed](https://github.com/hamzaed.png?size=16) [@hamzaed](https://github.com/hamzaed): The React chat widget, NLP.js integration, and Botium integration.
 
-![CLKBlu3](https://github.com/CLKBlu3.png?size=16) [@CLKBlu3](https://github.com/CLKBlu3): Xatkit servers API and management.
+:frowning_man: [@CLKBlu3](https://github.com/CLKBlu3): Xatkit servers API and management.
