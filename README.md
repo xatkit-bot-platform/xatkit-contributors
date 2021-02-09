@@ -13,3 +13,5 @@
 ![hamzaed](https://github.com/hamzaed.png?size=16) [@hamzaed](https://github.com/hamzaed): Xatkit [chat widget](https://github.com/xatkit-bot-platform/xatkit-chat-widget), [NLP.js](https://github.com/xatkit-bot-platform/xatkit-runtime) integration, and [Botium](https://github.com/xatkit-bot-platform/botium-connector-xatkit) integration.
 
 :frowning_man: [@CLKBlu3](https://github.com/CLKBlu3): Xatkit servers API and management.
+
+![mgv99](https://github.com/mgv99.png?size=16) [@mgv99](https://github.com/mgv99): Xatkit Language Processors
